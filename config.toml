@@ -19,5 +19,5 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/yuka-apps/yuka-food-cosmetic-sc
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-build-mode = "module"
+build-mode = "both"
 excluded-patches = "'GmsCore support'"
