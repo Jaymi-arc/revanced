@@ -7,11 +7,11 @@ enable-magisk-update = false   # set this to false if you do not want to receive
 
 
 [YouTube]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
 excluded-patches = "'GmsCore support'"
 
 [Twitter]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
