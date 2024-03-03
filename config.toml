@@ -19,3 +19,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 [Tiktok]
 enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+
+[Yuka]
+enabled = false
+apkmirror-dlurl = "https://www.apkmirror.com/apk/yuka-apps/yuka-food-cosmetic-scan/"
