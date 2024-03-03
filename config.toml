@@ -15,3 +15,7 @@ excluded-patches = "'GmsCore support'"
 [Twitter]
 enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+
+[Tiktok]
+enabled = false
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
